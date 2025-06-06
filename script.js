@@ -1,15 +1,33 @@
 const characters = {
   mizi: {
     name: "Mizi",
-    info: "Race : Human<br>Sexuality : Lesbian<br>Family : Guardian Shine",
+    info: "Race : Human<br>Age : 22<br>Family : Guardian Shine<br>Status : Alive",
     image: "mizi-pfp.jpg",
     audio: "myclematis.mp3"
   },
   sua: {
     name: "Sua",
-    info: "Race : Human<br>Age : 23<br>Sexuality : Lesbian<br>Family : Guardian Nigeh<br>Status : Deceased",
+    info: "Race : Human<br>Age : 23<br>Family : Guardian Nigeh<br>Status : Deceased",
     image: "sua-pfp.jpg",
     audio: "myclematis.mp3"
+  },
+  hyuna: {
+    name: "Hyuna",
+    info:"Race : Human<br>Age : 27<br>Family : Guardian Phan<br>Status : Deceased",
+    image: "hyuna-pfp.jpg",
+    audio: "allin-alienstage.mp3"
+  },
+  till: {
+    name: "Till",
+    info: "Race : Human<br>Age : 21<br>Family : Guardian Urak<br>Status : Deceased",
+    image: "till-pfp.jpg",
+    audio: "unknown.mp3"
+  },
+  ivan: {
+    name: "Ivan",
+    info: "Race : Human<br>Age : 22<br>Family : Guardian Unsha<br>Status : Deceased",
+    image: "ivan-pfp.jpg",
+    audio: "blacksorrow.mp3"
   }
 };
 
